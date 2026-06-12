@@ -37,3 +37,5 @@ A modern and responsive job board UI built using React and CSS, featuring dynami
 - Creating modern card-based UI layouts
 
 ---
+
+📬 Author
