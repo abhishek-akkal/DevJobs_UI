@@ -39,3 +39,5 @@ A modern and responsive job board UI built using React and CSS, featuring dynami
 ---
 
 ## 📬 Author
+
+Abhishek
