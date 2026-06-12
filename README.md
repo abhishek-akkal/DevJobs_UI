@@ -35,3 +35,5 @@ A modern and responsive job board UI built using React and CSS, featuring dynami
 - Adding hover animations and transitions
 - Importing and using external icon libraries
 - Creating modern card-based UI layouts
+
+---
